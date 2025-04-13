@@ -1,5 +1,5 @@
 git init
 git add .
 git commit -m "Initial commit"
-git remote add origin URL_REPO_ANDA
+git remote add https://github.com/future061209/mita_ai/edit/main/mita_ai
 git push -u origin main
